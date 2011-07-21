@@ -14,10 +14,10 @@ define("APP_RESOURCES", "http://localhost/bigsmall/app/resources/");
 define("SITE_CSS", "http://localhost/bigsmall/resources/css/style.css");
 
 // database settings
-$server = 'localhost';
-$user = 'root';
-$pass = '123jam';
-$db = 'cf_cms';
+$server = 'server';
+$user = 'user';
+$pass = 'pass';
+$db = 'db';
 
 // error reporting
 mysqli_report(MYSQLI_REPORT_ERROR);	
